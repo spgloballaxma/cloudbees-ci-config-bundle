@@ -19,11 +19,11 @@ items:
                 gitHubTrustPermissions: {
                   }
               strategyId: 1
-          repoOwner: REPLACE_GITHUB_ORG
+          repoOwner: spgloballaxma
           credentialsId: cloudbees-ci-workshop-github-app
           repository: pipeline-template-catalog
           configuredByUrl: true
-          repositoryUrl: https://github.com/REPLACE_GITHUB_ORG/pipeline-template-catalog.git
+          repositoryUrl: https://github.com/spgloballaxma/pipeline-template-catalog.git
   orphanedItemStrategy:
     defaultOrphanedItemStrategy:
       pruneDeadBranches: true
